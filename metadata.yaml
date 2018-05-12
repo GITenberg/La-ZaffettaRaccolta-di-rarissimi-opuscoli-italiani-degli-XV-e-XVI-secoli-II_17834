@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '7629'
     url: http://www.gutenberg.org/2009/agents/7629
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17834#La-ZaffettaRaccolta-di-rarissimi-opuscoli-italiani-degli-XV-e-XVI-secoli-II
 gutenberg_bookshelf: IT Poesia
 gutenberg_issued: '2006-02-23'
 gutenberg_type: Text
